@@ -10,20 +10,18 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 01 | 2026-01-13 | **[Slides 01]** | **[Word 01]** | **[Code 01]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-- The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
-- The Word link will let you download the material in the slides as a Word (.docx) document.
+- The HTML link provides the version of the slides that I suggest you focus on during class.
+- The Word link lets you download the material in the slides as a Word (.docx) document.
     - Some people prefer this to the HTML version for live note-taking.
-- The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides. Hit the download button after clicking the link above if you want the `.qmd` file.
-- To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
-- We attempt to record **every** 432 class via Zoom and post the recording to Canvas, but there have occasionally been problems in the past.
+- The Code link provides the Quarto code I used to build the slides. Hit the download button after clicking the link above if you want the `.qmd` file.
+- To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+- We attempt to record **every** 432 class via Zoom and post the recording to [Canvas](https://canvas.case.edu), but there have occasionally been problems in the past.
 
 ---
 
 ## Announcements
  
 You can do this. It's a lot of work, but it's worth it.
-
-
 
 ---
 
