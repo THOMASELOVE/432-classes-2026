@@ -31,15 +31,15 @@ You can do this. It's a lot of work, but it's worth it.
 
 If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options:
 
-### Email us at 431-help at case dot edu
-
-Notice that's **431-help**, not 432.
-
 ### TA Office Hours will start Friday 2025-01-16
 
 Attend TA office hours to get one-on-one help or share a computer problem. TA office hours are held via Zoom, and will begin on Friday 2026-01-16, and continue through Thursday 2026-04-30, except for Martin Luther King Day (Monday 2026-01-19) and Spring Break (hours are cancelled from 2026-03-07 through 2026-03-13.)
 
 Zoom information to join these sessions is posted to our **Shared Google Drive**. 
+
+### Email us at 431-help at case dot edu
+
+Notice that's **431-help**, not 432.
 
 ### If all else fails...
 
