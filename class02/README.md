@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-02 | 2026-01-15 | **[Slides 01]** | **[Word 01]** | **[Code 01]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+02 | 2026-01-15 | **[Slides 02]** | **[Word 02]** | **[Code 02]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Announcements
 
