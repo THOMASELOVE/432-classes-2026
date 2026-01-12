@@ -12,7 +12,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 - The HTML link provides the version of the slides that I suggest you focus on during class.
 - Some people may find the PDF version of the slides (with 2 slides per page) easier to take notes on.
-- The Code link provides the Quarto code I used to build the slides. Hit the download button after clicking the link above if you want the `.qmd` file.
+- The Code link provides the Quarto code I used to build the slides. Hit the download button after clicking the link to save the `.qmd` file.
 - We attempt to record **every** 432 class via Zoom and post the recording to [Canvas](https://canvas.case.edu), but there have occasionally been problems in the past.
 
 ---
