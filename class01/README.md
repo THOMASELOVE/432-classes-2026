@@ -11,7 +11,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 01 | 2026-01-13 | **[Slides 01](https://thomaselove.github.io/432-slides-2026/slides01.html)** | **[PDF 01](https://thomaselove.github.io/432-slides-2026/slides01.pdf)** | **[Code 01](https://thomaselove.github.io/432-slides-2025/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the version of the slides that I suggest you focus on during class.
-- Some people may find the PDF version (2 slides per page) easier to take notes on.
+- Some people may find the PDF version of the slides (with 2 slides per page) easier to take notes on.
 - The Code link provides the Quarto code I used to build the slides. Hit the download button after clicking the link above if you want the `.qmd` file.
 - We attempt to record **every** 432 class via Zoom and post the recording to [Canvas](https://canvas.case.edu), but there have occasionally been problems in the past.
 
