@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | HTML | PDF | Quarto | Recording
 :---: | :--------: | :------: | :-----: | :------: | :-------------:
-01 | 2026-01-13 | **[Slides 01](https://thomaselove.github.io/432-slides-2026/slides01.html)** | **[PDF 01](https://github.com/THOMASELOVE/432-slides-2026/blob/main/slides01.pdf)** | **[Code 01](https://thomaselove.github.io/432-slides-2025/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+01 | 2026-01-13 | **[Slides 01](https://thomaselove.github.io/432-slides-2026/slides01.html)** | **[PDF 01](https://github.com/THOMASELOVE/432-slides-2026/blob/main/432 Class 01.pdf)** | **[Code 01](https://thomaselove.github.io/432-slides-2025/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the version of the slides that I suggest you focus on during class.
 - Some people may find the PDF version of the slides (with 2 slides per page) easier to use.
