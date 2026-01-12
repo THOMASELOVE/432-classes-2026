@@ -6,9 +6,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | Date | HTML | Word | Quarto .qmd | Recording
-:---: | :--------: | :------: | :------: | :------: | :-------------:
-12 | 2026-02-26 | **[Slides 12]** | **[Word 12]** | **[Code 12]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+Class | Date | HTML | PDF | Quarto | Recording
+:---: | :--------: | :------: | :-----: | :------: | :-------------:
+12 | 2026-02-26 | **[Slides 12]** | **[PDF 12]** | **[Code 12]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Announcements
 
