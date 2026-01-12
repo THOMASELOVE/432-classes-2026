@@ -6,15 +6,13 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | Date | HTML | Word | Quarto .qmd | Recording
-:---: | :--------: | :------: | :------: | :------: | :-------------:
-01 | 2026-01-13 | **[Slides 01]** | **[Word 01]** | **[Code 01]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+Class | Date | HTML | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :-------------:
+01 | 2026-01-13 | **[Slides 01](https://thomaselove.github.io/432-slides-2026/slides01.html)** | **[PDF 01]**(https://thomaselove.github.io/432-slides-2026/slides01.pdf) **[Code 01](https://thomaselove.github.io/432-slides-2025/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the version of the slides that I suggest you focus on during class.
-- The Word link lets you download the material in the slides as a Word (.docx) document.
-    - Some people prefer this to the HTML version for live note-taking.
+- Some people may find the PDF version (2 slides per page) easier to take notes on.
 - The Code link provides the Quarto code I used to build the slides. Hit the download button after clicking the link above if you want the `.qmd` file.
-- To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record **every** 432 class via Zoom and post the recording to [Canvas](https://canvas.case.edu), but there have occasionally been problems in the past.
 
 ---
