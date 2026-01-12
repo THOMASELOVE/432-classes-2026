@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | HTML | PDF | Quarto | Recording
 :---: | :--------: | :------: | :-----: | :------: | :-------------:
-06 | 2026-01-29 | **[Slides 06](https://thomaselove.github.io/432-slides-2026/slides06.html)** | **[PDF 06](https://github.com/THOMASELOVE/432-slides-2026/blob/main/slides06.pdf)** | **[Code 06](https://thomaselove.github.io/432-slides-2025/slides06.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+06 | 2026-01-29 | **[Slides 06](https://thomaselove.github.io/432-slides-2026/slides06.html)** | **[PDF 06](slides06.pdf)** | **[Code 06](https://thomaselove.github.io/432-slides-2025/slides06.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Announcements
 
