@@ -16,7 +16,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 - The Code link downloads the Quarto code (.qmd file) I used to build the slides.
 - We attempt to record **every** 432 class via Zoom and post the recording to [Canvas](https://canvas.case.edu), but there have occasionally been problems in the past.
 
----
+![](https://imgs.xkcd.com/comics/replication_crisis.png) [Source](https://xkcd.com/3117)
 
 ## Announcements
  
@@ -32,7 +32,7 @@ If you’ve spent 15 minutes working on something and are stuck, don’t keep wo
 
 Attend TA office hours to get one-on-one help or share a computer problem. TA office hours are held via Zoom, and will begin on Friday 2026-01-16, and continue through Thursday 2026-04-30, except for Martin Luther King Day (Monday 2026-01-19) and Spring Break (hours are cancelled from 2026-03-07 through 2026-03-13.)
 
-Zoom information to join these sessions is posted to our **Shared Google Drive**. 
+Zoom information to join these sessions will be posted to [Canvas](https://canvas.case.edu/) and to our **Shared Google Drive**. 
 
 ### Email us at 431-help at case dot edu
 
