@@ -18,4 +18,18 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-To come.
+1. TA Office Hours begin on Friday. A complete schedule, with Zoom links, should appear by class time on our Shared Google Drive, and as an announcement on [Canvas](https://canvas.case.edu/). Remember that we won't hold any office hours this Monday 2026-01-19, because of the Martin Luther King, Jr. Holiday.
+2. My intention is to discuss [Project A](https://thomaselove.github.io/432-2026/projA.html) in some detail in class 3 but I'm happy to address questions about it (especially via **431-help at case dot edu** at any time.
+3. More to come.
+
+## What should I be working on?
+
+1. [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is due next Wednesday at noon to [Canvas](https://canvas.case.edu/). To do the Lab, you'll want to have installed/updated all of [the necessary software](https://thomaselove.github.io/432-2026/software.html).
+2. Read through the [Syllabus](https://thomaselove.github.io/432-2026/), and familiarize yourself with the other materials on [our website](https://thomaselove.github.io/432-2026/), especially the [Course Notes](https://thomaselove.github.io/432-notes/).
+3. The [Project A instructions](https://thomaselove.github.io/432-2026/projA.html) are available, and I would read them soon, so you know what you need to be thinking about.
+4. Ideally, you'd also be reading [How to be a modern scientist](https://leanpub.com/modernscientist), which you need to finish by the end of January. It's almost ten years old now, but it still has a lot to offer in a small package.
+
+## One Last Thing
+
+![](https://imgs.xkcd.com/comics/features_of_adulthood.png) from [XKCD](https://xkcd.com/3034)
+
