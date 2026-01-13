@@ -16,8 +16,6 @@ Class | Date | HTML | PDF | Quarto | Recording
 - The Code link downloads the Quarto code (.qmd file) I used to build the slides.
 - We attempt to record **every** 432 class via Zoom and post the recording to [Canvas](https://canvas.case.edu), but there have occasionally been problems in the past.
 
-![](https://imgs.xkcd.com/comics/replication_crisis.png) [Source](https://xkcd.com/3117)
-
 ## Announcements
  
 1. You can do this. It's a lot of work, but we are here to help you.
@@ -53,3 +51,7 @@ Email Professor Love at `thomas dot love` at `case dot edu` with any individual 
     - We expect you to read this book (it's about 80 pages) by the end of January. 
 7. Get started [installing or updating the software](software.qmd) you'll need for the course.
 8. Read over [Lab 1](https://thomaselove.github.io/432-2026/lab1.html), due Wednesday 2026-01-21 at noon.
+
+## One Last Thing
+
+![](https://imgs.xkcd.com/comics/replication_crisis.png) [Source](https://xkcd.com/3117)
