@@ -50,7 +50,6 @@ Email Professor Love at `thomas dot love` at `case dot edu` with any individual 
 4. Fill out the [Welcome to 432 Survey](https://bit.ly/432-2026-welcome-survey) to help us get to know you a little better by tomorrow (2026-01-14) at noon.
 5. Review the [course website](https://thomaselove.github.io/432-2026/), and be sure to visit the [Course Calendar](calendar.qmd), and skim through the [Course Syllabus](https://thomaselove.github.io/432-syllabus-2026/). You may also want to look at the [Course Notes](https://thomaselove.github.io/432-notes/).
 6. Purchase Jeff Leek's **How to be a Modern Scientist**, available electronically through <https://leanpub.com/modernscientist>. The suggested cost is $10, but you can pay what you want.
-    - We expect you to read this book (it's about 80 pages) by the end of January.
- Note that you must **log into Google via your CWRU account** in order to access the survey, which should take about 10 minutes to complete. This is due 
+    - We expect you to read this book (it's about 80 pages) by the end of January. 
 7. Get started [installing or updating the software](software.qmd) you'll need for the course.
 8. Read over [Lab 1](https://thomaselove.github.io/432-2026/lab1.html), due Wednesday 2026-01-21 at noon.
