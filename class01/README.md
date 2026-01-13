@@ -20,13 +20,11 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
  
-You can do this. It's a lot of work, but it's worth it.
+1. You can do this. It's a lot of work, but it's worth it.
 
----
+## On Getting Help
 
-## Getting Help
-
-If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options:
+If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options.
 
 ### TA Office Hours will start Friday 2025-01-16
 
@@ -41,3 +39,18 @@ Notice that's **431-help**, not 432.
 ### If all else fails...
 
 Email Professor Love at `thomas dot love` at `case dot edu` with any individual concerns related to the course that you do not feel comfortable asking elsewhere, or if you have any special concerns or needs that you want him to know about, or to set up an appointment with him for a Zoom meeting. I will also hold “drop in” hours for as long as necessary after each class. Just let me know that you want to talk with me at the end of class.
+
+----
+
+## Before Next Class
+
+1. If you're not yet registered, do so, at the [CWRU Student Information System (SIS)](https://sis.case.edu/).
+2. Check that you see the course on [Canvas](https://canvas.case.edu).
+3. Check that you see the Shared Google Drive when you log into Google via CWRU.
+4. Fill out the [Welcome to 432 Survey](https://bit.ly/432-2026-welcome-survey) to help us get to know you a little better by tomorrow (2026-01-14) at noon.
+5. Review the [course website](https://thomaselove.github.io/432-2026/), and be sure to visit the [Course Calendar](calendar.qmd), and skim through the [Course Syllabus](https://thomaselove.github.io/432-syllabus-2026/). You may also want to look at the [Course Notes](https://thomaselove.github.io/432-notes/).
+6. Purchase Jeff Leek's **How to be a Modern Scientist**, available electronically through <https://leanpub.com/modernscientist>. The suggested cost is $10, but you can pay what you want.
+    - We expect you to read this book (it's about 80 pages) by the end of January.
+ Note that you must **log into Google via your CWRU account** in order to access the survey, which should take about 10 minutes to complete. This is due 
+7. Get started [installing or updating the software](software.qmd) you'll need for the course.
+8. Read over [Lab 1](https://thomaselove.github.io/432-2026/lab1.html), due Wednesday 2026-01-21 at noon.
