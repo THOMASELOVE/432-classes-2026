@@ -20,7 +20,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
  
-1. You can do this. It's a lot of work, but it's worth it.
+1. You can do this. It's a lot of work, but we are here to help you.
 
 ## On Getting Help
 
