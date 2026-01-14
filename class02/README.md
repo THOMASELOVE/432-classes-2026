@@ -18,11 +18,11 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-1. TA Office Hours begin on Friday. A complete schedule, with Zoom links, should appear by class time on our Shared Google Drive, and as an announcement on [Canvas](https://canvas.case.edu/). Remember that we won't hold any office hours this Monday 2026-01-19, because of the Martin Luther King, Jr. Holiday.
-2. My intention is to discuss [Project A](https://thomaselove.github.io/432-2026/projA.html) in some detail in class 3 but I'm happy to address questions about it (especially via **431-help at case dot edu** at any time.
-3. Thank you to those of you who have completed the [Welcome to 432 Survey](https://bit.ly/432-2026-welcome-survey). If you haven't done this yet, then please do it today.
-4. Remember that [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is due at NOON on Wednesday 2026-01-21. Submit the work to [Canvas](https://canvas.case.edu).
-5. TA office hours begin **Friday 2025-01-16**. Zoom details and the complete schedule are available on our **Shared Google Drive**, and [Canvas](https://canvas.case.edu).
+1. My intention is to discuss [Project A](https://thomaselove.github.io/432-2026/projA.html) in some detail in class 3 but I'm happy to address questions about it (especially via **431-help at case dot edu** at any time.
+2. Thank you to those of you who have completed the [Welcome to 432 Survey](https://bit.ly/432-2026-welcome-survey). If you haven't done this yet, then please do it today.
+3. Remember that [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is due at NOON on Wednesday 2026-01-21. Submit the work to [Canvas](https://canvas.case.edu).
+4. TA office hours begin **Friday 2025-01-16**. Zoom details and the complete schedule are available on our **Shared Google Drive**, and [Canvas](https://canvas.case.edu).
+    - Remember that we won't hold any office hours this Monday 2026-01-19, because of the Martin Luther King, Jr. Holiday.
 
 ## Another Course
 
