@@ -20,7 +20,14 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 1. TA Office Hours begin on Friday. A complete schedule, with Zoom links, should appear by class time on our Shared Google Drive, and as an announcement on [Canvas](https://canvas.case.edu/). Remember that we won't hold any office hours this Monday 2026-01-19, because of the Martin Luther King, Jr. Holiday.
 2. My intention is to discuss [Project A](https://thomaselove.github.io/432-2026/projA.html) in some detail in class 3 but I'm happy to address questions about it (especially via **431-help at case dot edu** at any time.
-3. More to come.
+3. Thank you to those of you who have completed the [Welcome to 432 Survey](https://bit.ly/432-2026-welcome-survey). If you haven't done this yet, then please do it today.
+4. 
+
+## Another Course
+
+from Abdus Sattar (sattar at case dot edu):
+
+> I am writing to invite you to enroll in **Machine Learning and Data Mining** (`PQHS 471`) for Spring 2026, a 3-credit course focused on practical, hands-on machine learning with Python using real biomedical and clinical datasets. We will cover core supervised and unsupervised learning methods (including clustering, PCA, regularization, tree-based models, support vector machines, and deep learning) with an emphasis on interpretation and communication of results. If you are interested in applying modern data-driven methods to biomedical, clinical, or public health research, please review [the PQHS 471 syllabus](471_syllabus.pdf) and [flyer](471_flyer.pdf) and consider registering for PQHS 471.
 
 ## What should I be working on?
 
