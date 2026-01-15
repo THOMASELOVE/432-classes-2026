@@ -34,6 +34,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 from Abdus Sattar (sattar at case dot edu):
 
 > I am writing to invite you to enroll in **Machine Learning and Data Mining** (`PQHS 471`) for Spring 2026, a 3-credit course focused on practical, hands-on machine learning with Python using real biomedical and clinical datasets. We will cover core supervised and unsupervised learning methods (including clustering, PCA, regularization, tree-based models, support vector machines, and deep learning) with an emphasis on interpretation and communication of results. If you are interested in applying modern data-driven methods to biomedical, clinical, or public health research, please review [the PQHS 471 syllabus](471_syllabus.pdf) and [flyer](471_flyer.pdf) and consider registering for PQHS 471.
+> Today's 471 class will be on Zoom: to visit, go to <https://cwru.zoom.us/j/95669647661>. Meeting ID: 956 6964 7661. Passcode: 424142
 
 ## What should I be working on?
 
