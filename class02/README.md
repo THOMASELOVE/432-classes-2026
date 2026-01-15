@@ -23,6 +23,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 3. Remember that [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is due at NOON on Wednesday 2026-01-21. Submit the work to [Canvas](https://canvas.case.edu).
 4. TA office hours begin **Friday 2025-01-16**. Zoom details and the complete schedule are available on our **Shared Google Drive**, and [Canvas](https://canvas.case.edu).
     - Remember that we won't hold any office hours this Monday 2026-01-19, because of the Martin Luther King, Jr. Holiday.
+5. The materials remain online until 2026-06-01. In May, you will want to download (and keep for yourself) anything you want to have after that date.
 
 ## Another Course
 
