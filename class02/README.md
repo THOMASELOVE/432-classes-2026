@@ -25,9 +25,9 @@ Class | Date | HTML | PDF | Quarto | Recording
 3. Thank you to those of you who have completed the [Welcome to 432 Survey](https://bit.ly/432-2026-welcome-survey). If you haven't done this yet, then please do it today.
 4. Remember that [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is due at NOON on Wednesday 2026-01-21. Submit the work to [Canvas](https://canvas.case.edu).
     - There was a small typo (`hs_grad` instead of `hsgrad` in the list of variables) in Lab 1, which is now fixed, thanks to an alert student.
-6. TA office hours begin **Friday 2025-01-16**. Zoom details *and* the complete schedule are available on our **Shared Google Drive**, and on [Canvas](https://canvas.case.edu).
+5. TA office hours begin **Friday 2025-01-16**. Zoom details *and* the complete schedule are available on our **Shared Google Drive**, and on [Canvas](https://canvas.case.edu).
     - Remember that we won't hold any office hours this Monday 2026-01-19, because of the Martin Luther King, Jr. Holiday.
-7. The materials remain online until 2026-06-01. In May, you will want to download (and keep for yourself) anything you want to have after that date.
+6. All 432 (and 431) materials remain online until 2026-06-01. In May, you will want to download (and keep for yourself) anything you want to have after that date.
 
 ## Another Course
 
