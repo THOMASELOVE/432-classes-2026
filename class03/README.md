@@ -23,6 +23,6 @@ How excited are you about taking this course? <br/> 1 = I have nightmares about 
 Question | 1 | 2 | 3 | 4 | Mean | SD
 :----------------------------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
 How comfortable are you with R? <br/> 1 = I'm going to need a lot of refreshing. <br /> 4 = I use R all the time. | 0 <br/> -- | 5 <br/> (14%) | 22 <br/> (63%) | 8 <br/> (23%) | **3.09** | **0.61**
-How comfortable are you with Quarto? <br/> 1 = What is Quarto? <br/> 4 = I'm pretty comfortable with Quarto. | 1 | 2 | 23 | 9 | **3.14** | **0.65**
+How comfortable are you with Quarto? <br/> 1 = What is Quarto? <br/> 4 = I'm pretty comfortable with Quarto. | 1 <br/> (3%) | 2 <br/> (6%) | 23 <br/> (66%) | 9 <br/> (26%) | **3.14** | **0.65**
 
 Pearson correlation of *R comfort* with *Quarto comfort* = 0.19, with *n* = 35
