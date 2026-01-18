@@ -14,11 +14,11 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 To come.
 
-## From the "Welcome to 432 Survey"
+## From the "Welcome to 432 Survey" (*n* = 35)
 
-Question | 1 | 2 | 3 | 4 | 5 | 6 | *n* | Mean | SD
-:----------------------------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
-How excited are you about taking this course? <br/> 1 = I have nightmares about this class. <br/> 6 = I can't wait to get started. | 0 <br/> -- | 1 <br/> (3%) | 6 <br/> (17%) | 8 <br/> (23%) | 13 <br/> (37%) | 7 <br/> (20%) | 35 | **4.54** | **1.09**
+Question | 1 | 2 | 3 | 4 | 5 | 6 | Mean | SD
+:----------------------------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: 
+How excited are you about taking this course? <br/> 1 = I have nightmares about this class. <br/> 6 = I can't wait to get started. | 0 <br/> -- | 1 <br/> (3%) | 6 <br/> (17%) | 8 <br/> (23%) | 13 <br/> (37%) | 7 <br/> (20%) | **4.54** | **1.09**
 
 Question | 1 | 2 | 3 | 4 | Mean | SD
 :----------------------------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
