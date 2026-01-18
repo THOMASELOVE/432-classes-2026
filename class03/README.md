@@ -26,3 +26,5 @@ Question | 1 | 2 | 3 | 4 | Mean | SD
 **How comfortable are you with Quarto?** <br/> 1 = What is Quarto? <br/> 4 = I'm pretty comfortable with Quarto. | 1 <br/> (3%) | 2 <br/> (6%) | 23 <br/> (66%) | 9 <br/> (26%) | **3.14** | **0.65**
 
 Pearson correlation of *R comfort* with *Quarto comfort* = 0.19, with *n* = 35
+
+
