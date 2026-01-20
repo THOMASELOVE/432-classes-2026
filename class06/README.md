@@ -12,4 +12,9 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-To come.
+1. Feedback on the Minute Paper after Class 5 should be available **by class time**.
+2. [Lab 3] is due Wednesday 2026-02-04 at noon, to [Canvas](https://canvas.case.edu). You will need to have ingested your Project A data into R to complete part of the Lab.
+3. Today, we mostly close our work on the [HELP](https://www.mosaic-web.org/mosaicData/reference/HELPrct.html) trial.
+4. By next Tuesday, you should have completed reading [How To Be a Modern Scientist](https://leanpub.com/modernscientist).
+
+**More to come**.
