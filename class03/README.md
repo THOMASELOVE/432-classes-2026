@@ -16,6 +16,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 2. Remember that [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is due on Wednesday 2026-01-21 at noon.
 3. The [Minute Paper after today's class 3](https://bit.ly/432-2026-min-03) is also due Wednesday 2026-01-21 at noon.
 4. After today's class, you should be able to do [Lab 2](https://thomaselove.github.io/432-2026/lab2.html), which is due on Wednesday 2026-01-28 at noon.
+5. If you need more advice on switching from R Markdown to Quarto, or why you should do so, [we recommend this](https://quarto.org/docs/computations/r.html).
 
 ## From the "Welcome to 432 Survey" (*n* = 35)
 
@@ -30,4 +31,7 @@ Question | 1 | 2 | 3 | 4 | Mean | SD
 
 Pearson correlation of *R comfort* with *Quarto comfort* = 0.19, with *n* = 35
 
+## One Last Thing
+
+![](https://imgs.xkcd.com/comics/data_point.png) [Source](https://xkcd.com/2713)
 
