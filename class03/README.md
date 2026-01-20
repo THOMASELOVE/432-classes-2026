@@ -12,7 +12,10 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-To come.
+1. Today we discusss logistic regression. The [Notes](https://thomaselove.github.io/432-notes/) in Chapters 19-20 will be a good place to supplement what we do today.
+2. Remember that [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is due on Wednesday 2026-01-21 at noon.
+3. There is a [Minute Paper after today's class 3](https://bit.ly/432-2026-min-03), also due Wednesday 2026-01-21 at noon.
+4. After today's class, you should be able to do [Lab 2](https://thomaselove.github.io/432-2026/lab2.html), which is due on Wednesday 2026-01-28 at noon.
 
 ## From the "Welcome to 432 Survey" (*n* = 35)
 
