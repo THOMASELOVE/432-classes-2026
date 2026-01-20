@@ -31,6 +31,27 @@ Question | 1 | 2 | 3 | 4 | Mean | SD
 
 Pearson correlation of *R comfort* with *Quarto comfort* = 0.19, with *n* = 35
 
+## Ten thoughts on [Project A](https://thomaselove.github.io/432-2026/projA.html)
+
+1. Read **all of** [the Project A instructions](https://thomaselove.github.io/432-2026/projA.html) before you get started. **Details matter**.
+2. The three main parts of project A are all due in late February at the time specified on [the Course Calendar](https://thomaselove.github.io/432-2026/calendar.html):
+    - An HTML report, [described here](https://thomaselove.github.io/432-2026/projA.html#the-project-a-report), written using Quarto [and our template]((https://raw.githubusercontent.com/THOMASELOVE/432-data/refs/heads/master/data/432_projectA_template.qmd)), along with the Quarto code you used, and
+    - A cleaned and tidy data file that can be used to replicate your work, and
+    - A recorded video presentation, [described here](https://thomaselove.github.io/432-2026/projA.html#the-project-a-presentation), which describes some findings from your Project in less than 5 minutes. `mp4` or `mov` is preferred as the format.
+3. In addition, questions in [Lab 3](https://thomaselove.github.io/432-2026/lab3.html) and [Lab 4](https://thomaselove.github.io/432-2026/lab4.html) will require you to present some elementary results from your data. Lab 3 is due at the **start** of February (see [the Calendar](https://thomaselove.github.io/432-2026/calendar.html),) so you'll need to have your data in R by that time.
+4. Everyone will need to do at least one of the two projects this semester alone. You can have a partner on Project A, or have a partner on Project B, but not both. You can also work alone on both Projects.
+5. There is a [Quarto template for your Project A Report](https://raw.githubusercontent.com/THOMASELOVE/432-data/refs/heads/master/data/432_projectA_template.qmd). We require the use of this template in preparing your work.
+6. There is a [demonstration project A](https://thomaselove.github.io/432-2026/432_projectA_demo.html), built by me, which provides HTML results and the Quarto code.
+7. [What makes a data set acceptable?](https://thomaselove.github.io/432-2026/projA.html#what-makes-a-data-set-acceptable) is described in detail. **You should have your data in R by 2026-02-01**.
+    - It is an **excellent idea** to [run a data set past us](https://thomaselove.github.io/432-2026/projA.html#running-a-data-set-past-us-for-project-a) before you are first required to tell us about what you're doing as part of Lab 3. To check to see if we're OK with data you propose to use, [follow the instructions here](https://thomaselove.github.io/432-2026/projA.html#running-a-data-set-past-us-for-project-a). Note that there is no formal *proposal* for Project A.
+    - Here are a few potentially [good data sets to use](https://thomaselove.github.io/432-2026/projA.html#good-data-sets-to-use), if you're looking for ideas.
+    - Here are [some of the data sets we will not accept](https://thomaselove.github.io/432-2026/projA.html#data-sets-we-will-not-accept-for-project-a) for Project A.
+8. Your audience for the presentation and the report includes Professor Love, the teaching assistants and your fellow students. Prepare your presentation and report with that audience in mind. What will they need to know to understand what you’ve done, and get excited about it?
+9. Questions about Project A may be directed to the TAs or Dr. Love or to `431-help at case dot edu` at any time.
+10. Again, read **all of** [the Project A instructions](https://thomaselove.github.io/432-2026/projA.html) before you get started. **Details matter**.
+
+Project B instructions will be posted later this semester.
+
 ## One Last Thing
 
 ![](https://imgs.xkcd.com/comics/data_point.png) [Source](https://xkcd.com/2713)
