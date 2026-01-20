@@ -56,7 +56,7 @@ Project B instructions will be posted later this semester.
 
 **Question** "When using `facet_wrap()` for scatter plots, is there a way to crop the x axis to only show the range of values within each panel?" Right now my figure looks like this (and I don't like it):
 
-![](facet_wrap.png)
+![](facetwrap.png)
 
 **Answer** At moments like these, I usually go to the [R Graphics Cookbook](https://r-graphics.org/), and here's what I found there in [Section 11.2.1](https://r-graphics.org/RECIPE-FACET-FREE.html):
 
