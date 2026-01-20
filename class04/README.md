@@ -12,7 +12,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-1. The Answer Sketch for Lab 1 will be available on Friday 2026-01-23 shortly after noon. Grades and feedback on the Lab should be available by Class 5. 
+1. The Answer Sketch for Lab 1 will be available on Friday 2026-01-23 shortly after noon. Grades and feedback should be available by Class 5. 
 2. Frank Harrell is the inventor of the **rms** package, which we'll be using today.
     - [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) is a more introductory book "aimed at exposing biomedical researchers to modern biostatistical methods and statistical graphics"
     - [Regression Modeling Strategies](https://hbiostat.org/rmsc/) provides a detailed study of the `rms` package and philosophy.
