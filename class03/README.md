@@ -12,7 +12,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-1. Today we discusss logistic regression. Chapters 19-20  [Notes](https://thomaselove.github.io/432-notes/) in Chapters 19-20 will be a good place to supplement what we do today.
+1. Today's slides begin our discussion of logistic regression. Chapters 19-20 of the [Notes](https://thomaselove.github.io/432-notes/) are a good place to supplement what we do today.
 2. Remember that [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is due on Wednesday 2026-01-21 at noon.
 3. The [Minute Paper after today's class 3](https://bit.ly/432-2026-min-03) is also due Wednesday 2026-01-21 at noon.
 4. After today's class, you should be able to do [Lab 2](https://thomaselove.github.io/432-2026/lab2.html), which is due on Wednesday 2026-01-28 at noon.
@@ -51,6 +51,19 @@ Pearson correlation of *R comfort* with *Quarto comfort* = 0.19, with *n* = 35
 10. Again, read **all of** [the Project A instructions](https://thomaselove.github.io/432-2026/projA.html) before you get started. **Details matter**.
 
 Project B instructions will be posted later this semester.
+
+## Question of the Week
+
+**Question** "When using `facet_wrap()` for scatter plots, is there a way to crop the x axis to only show the range of values within each panel?" Right now my figure looks like this (and I don't like it):
+
+![](facet_wrap.png)
+
+**Answer** At moments like these, I usually go to the [R Graphics Cookbook](https://r-graphics.org/), and here's what I found there in [Section 11.2.1](https://r-graphics.org/RECIPE-FACET-FREE.html):
+
+- What you need is to set the scales within your `facet_grid()` call to "free"  or "free_y" or "free_x"
+- This will create subplots with different ranges on their axes. The default choice is `scales = "fixed"`.
+
+I'll add that this approach works with either `facet_grid()` or with `facet_wrap()`. 
 
 ## One Last Thing
 
