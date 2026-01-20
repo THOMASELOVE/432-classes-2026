@@ -12,4 +12,13 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-To come.
+1. There will be a Minute Paper after Class 5 due Wednesday 2026-01-28 at noon. Details **to come**.
+2. [Lab 2] is also due Wednesday 2026-01-28 at noon, to [Canvas](https://canvas.case.edu).
+3. Details on the HELP RCT are available [at this site](https://www.mosaic-web.org/mosaicData/reference/HELPrct.html) in addition to the one cited in the slides.
+4. Today's material using the `ols()` and `lrm()` functions is mostly covered in the [Course Notes](https://thomaselove.github.io/432-notes/), especially in Chapters 14 and 21.
+5. Frank Harrell's books on biostatistical modeling, highlighted in the [Class 4 README](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class04#announcements) are your best source for follow-up beyond our Notes.
+6. If you have yet to find a data set for Project A and ingest it into R, you will need to have done so before submitting [Lab 3](https://thomaselove.github.io/432-2026/lab3.html) next week.
+7. By next week, you should also have completed [How To Be a Modern Scientist](https://leanpub.com/modernscientist).
+
+**MORE TO COME**.
+
