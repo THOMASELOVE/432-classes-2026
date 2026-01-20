@@ -12,12 +12,11 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-1. I'll have results for you on a couple of things that aren't complete yet.
-2. Frank Harrell is the inventor of the **rms** package, which we'll be using today.
+1. Frank Harrell is the inventor of the **rms** package, which we'll be using today.
     - [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) is a more introductory book "aimed at exposing biomedical researchers to modern biostatistical methods and statistical graphics"
     - [Regression Modeling Strategies](https://hbiostat.org/rmsc/) provides a detailed study of the `rms` package and philosophy.
-3. The [HELP randomized controlled trial](https://www.mosaic-web.org/mosaicData/reference/HELPrct.html) we'll be discussing in several classes comes from [the `mosaicData` package](https://www.mosaic-web.org/mosaicData/).
-4. The CES-D Scale we will use for our two outcomes today is available [here as a PDF](https://www.apa.org/depression-guideline/epidemiologic-studies-scale.pdf).
+2. The [HELP randomized controlled trial](https://www.mosaic-web.org/mosaicData/reference/HELPrct.html) we'll be discussing in several classes comes from [the `mosaicData` package](https://www.mosaic-web.org/mosaicData/).
+3. The CES-D Scale we will use for our two outcomes today is available [here as a PDF](https://www.apa.org/depression-guideline/epidemiologic-studies-scale.pdf).
 
 ## Details to come.
 
