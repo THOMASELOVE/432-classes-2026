@@ -12,7 +12,7 @@ Class | Date | HTML | PDF | Quarto | Recording
 
 ## Announcements
 
-1. I recently corrected typos on pages 46-47 of the [Slides for Class 2](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class02), and corrected the Quarto file for [Class 3](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class03).
+1. I recently corrected typos on pages 46-47 of the [Slides for Class 2](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class02), and corrected the Quarto file links (which were previously pointing to 2025 code) for [Class 1](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class01), [Class 2](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class02) and [Class 3](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class03).
 2. The Answer Sketch for Lab 1 will be available on Friday 2026-01-23 shortly after noon. Grades and feedback should be available by Class 5. 
 3. Frank Harrell is the inventor of the **rms** package, which we'll be using today.
     - [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) is a more introductory book "aimed at exposing biomedical researchers to modern biostatistical methods and statistical graphics"
