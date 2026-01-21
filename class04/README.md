@@ -8,7 +8,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | HTML | PDF | Quarto | Recording
 :---: | :--------: | :------: | :-----: | :------: | :-------------:
-04 | 2026-01-22 | **[Slides 04](https://thomaselove.github.io/432-slides-2026/slides04.html)** | **[PDF 04](slides04.pdf)** | **[Code 04](https://thomaselove.github.io/432-slides-2026/slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+04 | 2026-01-22 | **[Slides 04](https://thomaselove.github.io/432-slides-2026/slides04.html)** | **[Word 04](https://thomaselove.github.io/432-slides-2026/zslides04.docx)** | **[Code 04](https://thomaselove.github.io/432-slides-2026/slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
+- Sometimes I will be able to create **Word** versions of our slides simply. When that happens, I will post them (like today) instead of the PDF.
 
 ## Announcements
 
