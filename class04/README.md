@@ -26,6 +26,18 @@ Class | Date | HTML | Word | Quarto | Recording
 8. The CES-D Scale we will use for our two outcomes today is available [here as a PDF](https://www.apa.org/depression-guideline/epidemiologic-studies-scale.pdf).
 9. We talked about Project A in Class 3. If you missed it, be sure you look over [our Ten Thoughts on Project A](https://github.com/THOMASELOVE/432-classes-2026/blob/main/class03/README.md#ten-thoughts-on-project-a).
 
+## Area under the ROC curve
+
+Wikipedia has a nice explanation of [the area under the ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic), relevant to logistic regression. We'll spend a moment on the three figures below to help explain some ideas.
+
+![](ROC_1.png)
+
+![](ROC_2.png)
+
+![](ROC_3.png)
+
+
+
 
 ## One Last Thing
 
