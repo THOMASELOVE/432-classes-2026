@@ -30,11 +30,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 Wikipedia has a nice explanation of [the area under the ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic), relevant to logistic regression. We'll spend a moment on the three figures below to help explain some ideas.
 
-![](ROC_1.png)
+![](ROC_01.png)
 
-![](ROC_2.png)
-
-![](ROC_3.png)
+![](ROC_02.png)
 
 
 
