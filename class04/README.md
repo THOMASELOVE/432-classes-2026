@@ -10,7 +10,8 @@ Class | Date | HTML | Word | Quarto | Recording
 :---: | :--------: | :------: | :-----: | :------: | :-------------:
 04 | 2026-01-22 | **[Slides 04](https://thomaselove.github.io/432-slides-2026/slides04.html)** | **[Word 04](https://thomaselove.github.io/432-slides-2026/zslides04.docx)** | **[Code 04](https://thomaselove.github.io/432-slides-2026/slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-- The **Word** link above provides a version of the slides in Word format, for easier note-taking. All classes now have Word versions, *instead of* PDF.
+- The **Word** link above provides a version of the slides in Word format, for easier note-taking.
+- **All classes** now have Word versions, *instead of* PDF.
 
 ## Announcements
 
