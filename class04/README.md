@@ -17,15 +17,16 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. I recently corrected typos on pages 46-47 of the [Slides for Class 2](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class02), and corrected the Quarto file links (which were previously pointing to 2025 code) for [Class 1](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class01), [Class 2](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class02) and [Class 3](https://github.com/THOMASELOVE/432-classes-2026/tree/main/class03).
 2. Feedback on the Minute Paper after Class 3 can be [found at this link](https://bit.ly/432-2026-min03-feedback).
-3. Here is a first look at [data related to some of your favorite TV shows](https://github.com/THOMASELOVE/432-classes-2026/blob/main/class04/tv_2026.md).
-4. The Answer Sketch for [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) will be posted to our Shared Drive on Friday 2026-01-23 after noon. Grades and feedback should be available by our next class.
-5. Frank Harrell is the inventor of the **rms** package, which we'll be using today.
+3. Please do not open the Zoom link for any class more than five minutes before that class begins. Thank you.
+4. Here is a first look at [data related to some of your favorite TV shows](https://github.com/THOMASELOVE/432-classes-2026/blob/main/class04/tv_2026.md).
+5. The Answer Sketch for [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) will be posted to our Shared Drive on Friday 2026-01-23 after noon. Grades and feedback should be available by our next class.
+6. Frank Harrell is the inventor of the **rms** package, which we'll be using today.
     - [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) is a more introductory book "aimed at exposing biomedical researchers to modern biostatistical methods and statistical graphics"
     - [Regression Modeling Strategies](https://hbiostat.org/rmsc/) provides a detailed study of the `rms` package and philosophy.
-6. Today's material using the `ols()` and `lrm()` functions is mostly covered in the [Course Notes](https://thomaselove.github.io/432-notes/), especially in Chapters 14 and 21.
-7. The [HELP randomized controlled trial](https://www.mosaic-web.org/mosaicData/reference/HELPrct.html) we'll be discussing in several classes comes from [the mosaicData package](https://www.mosaic-web.org/mosaicData/).
-8. The CES-D Scale we will use for our two outcomes today is available [here as a PDF](https://www.apa.org/depression-guideline/epidemiologic-studies-scale.pdf).
-9. We talked about Project A in Class 3. If you missed it, be sure you look over [our Ten Thoughts on Project A](https://github.com/THOMASELOVE/432-classes-2026/blob/main/class03/README.md#ten-thoughts-on-project-a).
+7. Today's material using the `ols()` and `lrm()` functions is mostly covered in the [Course Notes](https://thomaselove.github.io/432-notes/), especially in Chapters 14 and 21.
+8. The [HELP randomized controlled trial](https://www.mosaic-web.org/mosaicData/reference/HELPrct.html) we'll be discussing in several classes comes from [the mosaicData package](https://www.mosaic-web.org/mosaicData/).
+9. The CES-D Scale we will use for our two outcomes today is available [here as a PDF](https://www.apa.org/depression-guideline/epidemiologic-studies-scale.pdf).
+10. We talked about Project A in Class 3. If you missed it, be sure you look over [our Ten Thoughts on Project A](https://github.com/THOMASELOVE/432-classes-2026/blob/main/class03/README.md#ten-thoughts-on-project-a).
 
 ## Area under the ROC curve
 
