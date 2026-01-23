@@ -19,7 +19,11 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Project A Data - A tip about your linear regression outcome
 
-In Project A, you may be interested in a quantitative variable that is also a **count**, say, the number of days out of the last 30 that the subject has experienced some sort of health issue. We'll have ways of dealing with count outcomes specifically, in the second half of the course. For Project A, it's fine to use such an outcome, but you may find that there is a pronounced **floor** (lots of people have 0 as their answer) or **ceiling** (lots of people have 30 as their answer) or both. It would likely be more interesting (just for Project A) to take a random sample of subjects who have complete data on this outcome **and** have a value greater than 0 (if a lot of the original data values are zeros), just so you have more variability in your outcome, rather than a big spike in the histogram. Same would go for the value 30 (you might restrict to values between 1 and 29) if 30 and 0 are both very common responses.
+In Project A, you may be interested in a quantitative variable that is also a **count**, say, the number of days out of the last 30 that the subject has experienced some sort of health issue.
+
+- We'll have ways of dealing with count outcomes specifically, in the second half of the course.
+- For Project A, it's fine to use such an outcome, but you may find that there is a pronounced **floor** (lots of people have 0 as their answer) or **ceiling** (lots of people have 30 as their answer) or both.
+- It is very likely that it will be more interesting (just for Project A) to take a random sample of subjects who have complete data on this outcome **and** have a value greater than 0 (if a lot of the original data values are zeros), just so you have more variability in your outcome, rather than a big spike in the histogram. Same would go for the value 30 (you might restrict to values between 1 and 29) if 30 and 0 are both very common responses.
 
 ---------------
 
