@@ -16,6 +16,7 @@ Class | Date | HTML | Word | Quarto | Recording
 2. [Lab 2](https://thomaselove.github.io/432-2026/lab2.html) is also due Wednesday 2026-01-28 at noon, to [Canvas](https://canvas.case.edu).
 3. If you have yet to find a data set for Project A and ingest it into R, you will need to have done so before submitting [Lab 3](https://thomaselove.github.io/432-2026/lab3.html) next week.
 4. By next week, you should also have completed [How To Be a Modern Scientist](https://leanpub.com/modernscientist).
+5. Feedback on Lab 1 should be posted by class time. An answer sketch and grading rubric appeared on our Shared Drive last Friday.
 
 ## Project A Data - A tip about your linear regression outcome
 
