@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 In [Project A](https://thomaselove.github.io/432-2026/projA.html), you may be interested in a quantitative variable that is also a **count**, say, the number of days out of the last 30 that the subject has experienced some sort of health issue.
 
-- We'll have ways of dealing with count outcomes specifically, in the second half of the course.
+- We'll have ways of dealing with count outcomes in regression models in the second half of the course.
 - For Project A, it's fine to use such an outcome, but you may find that there is a pronounced **floor** (lots of people have 0 as their answer) or **ceiling** (lots of people have 30 as their answer) or both.
 - Just for Project A, I suggest that if you have such a variable with a large spike in the histogram at one of the ends, for example, at 0, that you take a random sample of subjects who have complete data on this outcome **and** have a value greater than 0, just so you have more variability and avoid a spike in your outcome's distribution.
 
