@@ -27,7 +27,7 @@ In Project A, you may be interested in a quantitative variable that is also a **
 
 ---------------
 
-## A few Reminders 
+## Reminders 
 
 1. Details on the HELP RCT are available [at this site](https://www.mosaic-web.org/mosaicData/reference/HELPrct.html) in addition to the one cited in the slides.
 2. Today's material using the `ols()` and `lrm()` functions is mostly covered in the [Course Notes](https://thomaselove.github.io/432-notes/), especially in Chapters 14 and 21.
