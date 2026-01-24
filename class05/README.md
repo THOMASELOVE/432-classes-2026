@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. There will be a Minute Paper after Class 5 due Wednesday 2026-01-28 at noon. Details **to come**.
+1. The [Minute Paper after Class 5](https://bit.ly/432-2026-min-05) is due Wednesday 2026-01-28 at noon.
 2. [Lab 2](https://thomaselove.github.io/432-2026/lab2.html) is also due Wednesday 2026-01-28 at noon, to [Canvas](https://canvas.case.edu).
 3. If you have yet to find a data set for Project A and ingest it into R, you will need to have done so before submitting [Lab 3](https://thomaselove.github.io/432-2026/lab3.html) next week.
 4. By next week, you should also have completed [How To Be a Modern Scientist](https://leanpub.com/modernscientist).
