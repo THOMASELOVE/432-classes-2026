@@ -26,6 +26,7 @@ In [Project A](https://thomaselove.github.io/432-2026/projA.html), you may be in
 - For Project A, it's fine to use such an outcome, but you may find that there is a pronounced **floor** (lots of people have 0 as their answer) or **ceiling** (lots of people have 30 as their answer) or both.
 - Just for Project A, I suggest that if you have such a variable with a large spike in the histogram at one of the ends, for example, at 0, that you take a random sample of subjects who have complete data on this outcome **and** have a value greater than 0, just so you have more variability and avoid a spike in your outcome's distribution.
 
+This tip, plus a reminder of what counts as a quantitative outcome for the Project, are now in the [Project A instructions](https://thomaselove.github.io/432-2026/projA.html), as of 2026-01-24. Just search for **NEW (01-24)** to see the additions.
 
 ---------------
 
