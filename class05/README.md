@@ -10,6 +10,8 @@ Class | Date | HTML | Word | Quarto | Recording
 :---: | :--------: | :------: | :-----: | :------: | :-------------:
 05 | 2026-01-27 | **[Slides 05](https://thomaselove.github.io/432-slides-2026/slides05.html)** | **[Word 05](https://thomaselove.github.io/432-slides-2026/zslides05.docx)** | **[Code 05](https://thomaselove.github.io/432-slides-2026/slides05.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+# Today's class will be held exclusively over Zoom.
+
 ## Announcements
 
 1. The [Minute Paper after Class 5](https://bit.ly/432-2026-min-05) is due Wednesday 2026-01-28 at noon.
