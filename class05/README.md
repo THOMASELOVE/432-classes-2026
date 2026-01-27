@@ -23,19 +23,28 @@ Class | Date | HTML | Word | Quarto | Recording
     - Let us know at **431-help** at case dot edu if you have any questions about *how to review* your grades and feedback.
     - We request that you **not dispute any grading on Labs 1-7 via email or in discussions with TAs.** Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, submit a request for a regrade by Professor Love using the Google Form at <https://bit.ly/432-2026-lab-regrades> by the deadline in the [Calendar](https://thomaselove.github.io/432-2026/calendar.html). See [Section 8.4 of the Syllabus](https://thomaselove.github.io/432-syllabus-2026/08-grading.html#lab-appeal-policy---request-a-review-via-google-form) for more details on this policy.
 
-## Project A Data - A tip about your linear regression outcome
+## Project A 
 
 **Remember**: If you have yet to find a data set for Project A and ingest it into R, you will need to have done so before submitting [Lab 3](https://thomaselove.github.io/432-2026/lab3.html), which is due one week from tomorrow.
+
+The changes below, plus a fix to a misspelling of the word "definitions" are found in the current version of the [Project A instructions](https://thomaselove.github.io/432-2026/projA.html).
+
+### Sample Size
+
+I have adjusted and simplified the requirements for the sample size in your [Project A]([Project A instructions](https://thomaselove.github.io/432-2026/projA.html).
+
+- You need to have at least 300 and no more than 2000 (non-missing) observations for all outcome and predictor variables you intend to use in Project A.
+- Your binary categorical outcome for your logistic regression model must have at least 150 observations in the **smaller** of the two groups.
+
+And that's it.
+
+### Working with a count as your linear regression outcome
 
 In [Project A](https://thomaselove.github.io/432-2026/projA.html), you may be interested in a quantitative variable that is also a **count**, say, the number of days out of the last 30 that the subject has experienced some sort of health issue.
 
 - We'll have ways of dealing with count outcomes in regression models in the second half of the course.
 - For Project A, it's fine to use such an outcome, but you may find that there is a pronounced **floor** (lots of people have 0 as their answer) or **ceiling** (lots of people have 30 as their answer) or both.
 - Just for Project A, I suggest that if you have such a variable with a large spike in the histogram at one of the ends, for example, at 0, that you take a random sample of subjects who have complete data on this outcome **and** have a value greater than 0, just so you have more variability and avoid a spike in your outcome's distribution.
-
-This tip, plus a reminder of what counts as a quantitative outcome for the Project, are now in the [Project A instructions](https://thomaselove.github.io/432-2026/projA.html), as of 2026-01-24. Just search for **NEW (01-24)** to see the additions.
-
-- This morning, I also fixed a misspelling of the word "definitions" in the Lab 1 document, thanks to an alert student.
 
 ---------------
 
