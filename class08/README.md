@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | HTML | PDF | Quarto | Recording
 :---: | :--------: | :------: | :-----: | :------: | :-------------:
-08 | 2026-02-05 | **[Slides 08]** | **[PDF 08]** | **[Code 08]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+08 | 2026-02-05 | **[Slides 07-08]** | **[PDF 07-08]** | **[Code 07-08]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Announcements
 
