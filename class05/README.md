@@ -25,7 +25,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Project A Data - A tip about your linear regression outcome
 
-**Remember**: If you have yet to find a data set for Project A and ingest it into R, you will need to have done so before submitting [Lab 3](https://thomaselove.github.io/432-2026/lab3.html) next week.
+**Remember**: If you have yet to find a data set for Project A and ingest it into R, you will need to have done so before submitting [Lab 3](https://thomaselove.github.io/432-2026/lab3.html), which is due one week from tomorrow.
 
 In [Project A](https://thomaselove.github.io/432-2026/projA.html), you may be interested in a quantitative variable that is also a **count**, say, the number of days out of the last 30 that the subject has experienced some sort of health issue.
 
