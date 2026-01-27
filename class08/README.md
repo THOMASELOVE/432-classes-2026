@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------: |:------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | lab submission | for downloads | to read
 
-## Today's Slides
+## This Week's Slides
 
 Class | Date | HTML | PDF | Quarto | Recording
 :---: | :--------: | :------: | :-----: | :------: | :-------------:
