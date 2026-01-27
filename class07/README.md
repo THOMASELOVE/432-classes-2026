@@ -16,9 +16,8 @@ Class | Date | HTML | PDF | Quarto | Recording
     - Here is [an outline](outline.md) of the material discussed in these slides, which also includes [an index of key statistical topics discussed](outline.md#index-of-r-functions-and-key-statistical-ideas).
     - The **support1000 example**, on our Shared Drive includes many things from these slides, plus other materials.
     - In Classes 9 and 10, we will be working through a similarly detailed example, involving linear regression.
-4. Today's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2025-01-28.xlsx).
-5. We won't get to it until Class 9, but there is an extra file of 50 more movies, as a .csv, also on our 432-data page, [downloadable here](https://github.com/THOMASELOVE/432-data/blob/master/data/movies_extra.csv).
-
+4. Today's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2025/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2025-10-28.xlsx).
+5. We won't get to it until Class 8, but there is an extra file of 50 more movies, as a .csv, also on our 432-data page, [downloadable here](https://github.com/THOMASELOVE/432-data/blob/master/data/movies_extra.csv).
 
 ## Some Thoughts motivated by "How To Be A Modern Scientist"
 
