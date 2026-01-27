@@ -18,6 +18,7 @@ Class | Date | HTML | PDF | Quarto | Recording
     - In Classes 9 and 10, we will be working through a similarly detailed example, involving linear regression.
 2. This week's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2025/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2026-02-01.xlsx).
 3. We won't get to it until Class 8, but there is an extra file of 50 more movies, as a .csv, also on our 432-data page, [downloadable here](https://github.com/THOMASELOVE/432-data/blob/master/data/movies_extra.csv).
+4. More to come.
 
 ## Some Thoughts motivated by "How To Be A Modern Scientist"
 
