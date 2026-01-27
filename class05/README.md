@@ -15,14 +15,13 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. The [Minute Paper after Class 5](https://bit.ly/432-2026-min-05) is due Wednesday 2026-01-28 at noon.
-2. [Lab 2](https://thomaselove.github.io/432-2026/lab2.html) is also due Wednesday 2026-01-28 at noon, to [Canvas](https://canvas.case.edu).
+2. [Lab 2](https://thomaselove.github.io/432-2026/lab2.html) is also due Wednesday 2026-01-28 at noon, to [Canvas](https://canvas.case.edu). I noticed that many people had yet to upgrade R to version 4.5.2. Please do so for Lab 2. Instructions are on [our Software page](https://thomaselove.github.io/432-2026/software.html).
 3. By next week, you should complete [How To Be a Modern Scientist](https://leanpub.com/modernscientist).
-4. Feedback on [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) should be posted to our **Shared Drive** in the **432 Grades Roster for Students - Spring 2026** by class time. 
+4. Feedback on [Lab 1](https://thomaselove.github.io/432-2026/lab1.html) is on our **Shared Drive** in the **432 Grades Roster for Students - Spring 2026** sheet. 
     - You should have received your 432 Lab Code and instructions on how to use it from me via **email** last Saturday (2026-01-24).
     - An answer sketch and grading rubric for Lab 1 appeared on our **Shared Drive** last Friday (2026-01-23).
     - Let us know at **431-help** at case dot edu if you have any questions about *how to review* your grades and feedback.
-5. We request that you **not dispute any grading on Labs 1-7 via email or in discussions with TAs.** Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, submit a request for a regrade by Professor Love using the Google Form at <https://bit.ly/432-2026-lab-regrades> by the deadline in the [Calendar](https://thomaselove.github.io/432-2026/calendar.html).
-    - See [Section 8.4 of the Syllabus](https://thomaselove.github.io/432-syllabus-2026/08-grading.html#lab-appeal-policy---request-a-review-via-google-form) for more details on this policy.
+    - We request that you **not dispute any grading on Labs 1-7 via email or in discussions with TAs.** Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, submit a request for a regrade by Professor Love using the Google Form at <https://bit.ly/432-2026-lab-regrades> by the deadline in the [Calendar](https://thomaselove.github.io/432-2026/calendar.html). See [Section 8.4 of the Syllabus](https://thomaselove.github.io/432-syllabus-2026/08-grading.html#lab-appeal-policy---request-a-review-via-google-form) for more details on this policy.
 
 ## Project A Data - A tip about your linear regression outcome
 
