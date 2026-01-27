@@ -31,7 +31,7 @@ The changes below, plus a fix to a misspelling of the word "definitions" are fou
 
 ### Sample Size
 
-I have adjusted and simplified the requirements for the sample size in your [Project A]([Project A instructions](https://thomaselove.github.io/432-2026/projA.html).
+I have adjusted and simplified the requirements for the sample size in your [Project A](https://thomaselove.github.io/432-2026/projA.html).
 
 - You need to have at least 300 and no more than 2000 (non-missing) observations for all outcome and predictor variables you intend to use in Project A.
 - Your binary categorical outcome for your logistic regression model must have at least 150 observations in the **smaller** of the two groups.
