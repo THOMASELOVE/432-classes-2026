@@ -35,6 +35,8 @@ In [Project A](https://thomaselove.github.io/432-2026/projA.html), you may be in
 
 This tip, plus a reminder of what counts as a quantitative outcome for the Project, are now in the [Project A instructions](https://thomaselove.github.io/432-2026/projA.html), as of 2026-01-24. Just search for **NEW (01-24)** to see the additions.
 
+Note that I also fixed a misspelling of "Definitions" later in the Lab 1 document, thanks to an alert student.
+
 ---------------
 
 ## Reminders 
