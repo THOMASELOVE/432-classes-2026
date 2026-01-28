@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. Feedback on the [Minute Paper after Class 5](https://github.com/THOMASELOVE/432-minute-2026) should be available **by class time**.
+1. Feedback on the Minute Paper after Class 5 [is now available](https://bit.ly/432-2026-min05-feedback).
 2. [Lab 3](https://thomaselove.github.io/432-2026/lab3.html) is due Wednesday 2026-02-04 at noon, to [Canvas](https://canvas.case.edu). We remind you that you will need to have ingested your [Project A data](https://thomaselove.github.io/432-2026/projA.html) into R to complete part of the Lab.
 3. Please complete reading [How To Be a Modern Scientist](https://leanpub.com/modernscientist) by class time next Tuesday 2026-02-03.
 4. Another very good weekend activity is [updating your R packages](https://thomaselove.github.io/432-2026/software.html#updating-your-r-packages), which I try to do about every two weeks.
