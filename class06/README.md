@@ -17,6 +17,15 @@ Class | Date | HTML | Word | Quarto | Recording
 3. Please complete reading [How To Be a Modern Scientist](https://leanpub.com/modernscientist) by class time next Tuesday 2026-02-03.
 4. Another very good weekend activity is [updating your R packages](https://thomaselove.github.io/432-2026/software.html#updating-your-r-packages), which I try to do about every two weeks.
 
+## On Non-Linearity
+
+Here are a few articles related to using non-linear terms in regression models that may be of interest to you...
+
+- Gauthier J, Wu QV and Gooley TA 2020 [Editorial: Cubic splines to model relationships between continuous variables and outcomes: a guide for clinicians](https://www.nature.com/articles/s41409-019-0679-x) Bone Marrow Transplantation 55, 675-680.
+- Schuster NA et al. 2022 [Modeling non-linear relationships in epidemiological data: The application and interpretation of spline models](https://pubmed.ncbi.nlm.nih.gov/38455295/) Front Epidemiol. Aug 18: 2: 975380
+- Discacciati A et al. 2025 [Estimating and presenting non-linear associations with restricted cubic splines](https://pubmed.ncbi.nlm.nih.gov/40527479/) Int J Epidemiol Jun 11; 54(4):dyaf088.
+- Desquilbet L and Mariotti F 2010 [Dose-response analyses using restricted cubic spline functions in public health research](https://pubmed.ncbi.nlm.nih.gov/20087875/) Stat Med Apr 30; 29(9): 1037-57.
+
 ## Reminders 
 
 1. Today, we mostly close our work on the [HELP](https://www.mosaic-web.org/mosaicData/reference/HELPrct.html) trial.
