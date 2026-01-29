@@ -16,6 +16,7 @@ Class | Date | HTML | Word | Quarto | Recording
 2. [Lab 3](https://thomaselove.github.io/432-2026/lab3.html) is due Wednesday 2026-02-04 at noon, to [Canvas](https://canvas.case.edu). We remind you that you will need to have ingested your [Project A data](https://thomaselove.github.io/432-2026/projA.html) into R to complete part of the Lab.
 3. Please complete reading [How To Be a Modern Scientist](https://leanpub.com/modernscientist) by class time next Tuesday 2026-02-03.
 4. Another very good weekend activity is [updating your R packages](https://thomaselove.github.io/432-2026/software.html#updating-your-r-packages), which I try to do about every two weeks.
+5. We will be adding **new office hours** effective this Monday, to be held from 6:00 pm to 7:30 pm on Mondays for the rest of the semester. The Zoom link is posted to our Shared Drive, and to [Canvas](https://canvas.case.edu/), and I will update our website accordingly later today.
 
 ## On Non-Linearity
 
